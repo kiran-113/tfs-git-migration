@@ -131,7 +131,3 @@ is automatically migrated to the Git branch:
 This script is provided as-is for internal migration purposes.
 Modify and adapt as needed for your environment.
 ```
-
----
-
-Would you like me to also add a **real command example** (with `git tfs clone` and `git push`) so users can see the exact commands the script runs under the hood? That could make the README even more transparent.
